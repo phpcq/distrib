@@ -8,4 +8,5 @@ Github repository: [phpcq/phpcq](https://github.com/phpcq/phpcq).
 
 Release directory: [phpcq runner](./phpcq)
 
+Latest stable: [DOWNLOAD](./phpcq/stable)
 Latest unstable: [DOWNLOAD](./phpcq/unstable/phpcq.phar)
