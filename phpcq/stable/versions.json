@@ -2,7 +2,7 @@
   "updated": "2025-06-12T07:28:25+00:00",
   "versions": [
     {
-      "version": "2.0.1-58",
+      "version": "2.0.1-58-ge16ce4c-2024-03-21-09-03-26-UTC",
       "phar":  "2.0.1-58-ge16ce4c-2024-03-21-09-03-26-UTC.phar",
       "signature": "2.0.1-58-ge16ce4c-2024-03-21-09-03-26-UTC.phar.asc",
       "requirements": {
@@ -14,7 +14,7 @@
       }
     },
     {
-      "version": "2.0.1-59",
+      "version": "2.0.1-59-g3976c20-2024-03-21-09-12-45-UTC",
       "phar":  "2.0.1-59-g3976c20-2024-03-21-09-12-45-UTC.phar",
       "signature": "2.0.1-59-g3976c20-2024-03-21-09-12-45-UTC.phar.asc",
       "requirements": {
