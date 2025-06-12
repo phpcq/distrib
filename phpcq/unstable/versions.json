@@ -1,0 +1,16 @@
+{
+  "updated": "2025-06-12T07:28:25+00:00",
+  "versions": [
+    {
+      "version": "819c651-2025-06-11-12-17-48-UTC",
+      "phar":  "phpcq.phar",
+      "requirements": {
+        "php": "^7.4 || ^8.0",
+        "ext-dom": "*",
+        "ext-hash": "*",
+        "ext-json": "*",
+        "ext-xml": "*"
+      }
+    }
+  ]
+}
