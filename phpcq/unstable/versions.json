@@ -1,1 +1,1 @@
-{"updated":"2025-09-26T11:39:15+00:00","versions":[{"version":"ebb2f64+2025-09-26-11-38-44-UTC","phar":"phpcq.phar","signature":"phar.asc","requirements":{"php":"^7.4 || ^8.0","ext-dom":"*","ext-hash":"*","ext-json":"*","ext-xml":"*"}}]}
+{"updated":"2025-09-26T11:39:15+00:00","versions":[{"version":"ebb2f64+2025-09-26-11-38-44-UTC","phar":"phpcq.phar","signature":"phcq.phar.asc","requirements":{"php":"^7.4 || ^8.0","ext-dom":"*","ext-hash":"*","ext-json":"*","ext-xml":"*"}}]}
